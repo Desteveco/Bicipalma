@@ -47,7 +47,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.estatuas</mainClass>
+                            <mainClass>edu.estatuas.app.BiciPalma.java</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
